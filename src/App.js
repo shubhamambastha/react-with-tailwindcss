@@ -1,5 +1,3 @@
-import "./App.css";
-
 function App() {
   return <div className="text-yellow-800 text-4xl">Testing tailwind</div>;
 }
